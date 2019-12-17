@@ -2,7 +2,7 @@
 
 Phylogenetic tree described in Smith and Brown (2018), files downloaded from [FePhyFoFum/big_seed_plant_trees](https://github.com/FePhyFoFum/big_seed_plant_trees). Currently using data [version 0.1](https://github.com/FePhyFoFum/big_seed_plant_trees/releases/tag/v0.1).
 
-This repo is just sharing some `R` codes that make query from their data (e.g. extract a subset of taxa from the giant tree). Please cite Smith and Brown (2018) for their work and data.
+This repo is just sharing some `R` codes that make query from their data (e.g. extract a subset of taxa from the giant tree). Please cite Smith and Brown (2018) for their work and data. Also, please check their GitHub repo for any newer data releases, because I don't always update here...
 
 ## Reference
 
